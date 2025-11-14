@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Anda]! 👋
+# Halo, Saya Daniel Satria Darmawan! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Python+Enthusiast;Laravel+Developer;Game+Lover)](https://git.io/typing-svg)
 

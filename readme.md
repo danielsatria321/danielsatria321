@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DanielSatriaDarmawan?tab=repositories">
-    <img src="https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif" width="60%" style="border-radius:12px;" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" style="border-radius:12px;" />
   </a>
 </p>
 

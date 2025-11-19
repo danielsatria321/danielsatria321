@@ -1,4 +1,4 @@
-# Halo, Saya Daniel Satria Darmawan! 🚀
+# Halo, Saya Daniel Satria Darmawan! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF7F50&width=435&lines=Full+Stack+Developer;Python+Enthusiast;Laravel+Developer;Game+Lover)](https://git.io/typing-svg)
 
@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  🚀 <b>Klik roket untuk menjelajahi repositori saya!</b>
+ <b>Klik roket untuk menjelajahi repositori saya!</b>
 </p>
 
 ---

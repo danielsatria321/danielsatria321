@@ -18,7 +18,9 @@ Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi we
  
 -  **PHP** - Laravel, CodeIgniter  
 -  **Frontend** - HTML, CSS, JavaScript, Tailwind
--  **Python** 
+-  **Python**
+-  **C++**
+-  **Solidity** 
 
 ##  Skill Set
 

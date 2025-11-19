@@ -14,12 +14,11 @@
 
 Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi web yang kreatif dan efisien. Dengan pengalaman dalam berbagai teknologi, saya menikmati tantangan dalam mengembangkan solusi yang inovatif.
 
-**Teknologi yang saya kuasai:**
+**Bahasa yang saya kuasai:**
  
-- 🐘 **PHP** - Laravel, CodeIgniter  
-- 🌐 **Frontend** - HTML, CSS, JavaScript  
-- 🎮 **Game Development** - Pygame, Unity Basics
-- 🐍 **Python** - 
+-  **PHP** - Laravel, CodeIgniter  
+-  **Frontend** - HTML, CSS, JavaScript, Tailwind
+-  **Python** 
 
 ##  Skill Set
 

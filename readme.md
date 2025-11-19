@@ -8,9 +8,7 @@
   </a>
 </p>
 
-<p align="center">
- <b>Klik roket untuk menjelajahi repositori saya!</b>
-</p>
+
 
 ---
 
@@ -21,9 +19,9 @@ Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi we
 - 🐘 **PHP** - Laravel, CodeIgniter  
 - 🌐 **Frontend** - HTML, CSS, JavaScript  
 - 🎮 **Game Development** - Pygame, Unity Basics
-- 🐍 **Python** - Django, Flask, Data Science   
+- 🐍 **Python** - 
 
-## 🎯 Skill Set
+##  Skill Set
 
 ### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

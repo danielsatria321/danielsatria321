@@ -14,15 +14,14 @@
 
 ---
 
-## 🚀 Tentang Saya
-
 Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi web yang kreatif dan efisien. Dengan pengalaman dalam berbagai teknologi, saya menikmati tantangan dalam mengembangkan solusi yang inovatif.
 
 **Teknologi yang saya kuasai:**
-- 🐍 **Python** - Django, Flask, Data Science  
+ 
 - 🐘 **PHP** - Laravel, CodeIgniter  
 - 🌐 **Frontend** - HTML, CSS, JavaScript  
-- 🎮 **Game Development** - Pygame, Unity Basics  
+- 🎮 **Game Development** - Pygame, Unity Basics
+- 🐍 **Python** - Django, Flask, Data Science   
 
 ## 🎯 Skill Set
 
@@ -41,80 +40,12 @@ Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi we
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielSatriaDarmawan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielSatriaDarmawan&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
-## 🎮 Dunia Game Saya
-
-```python
-class MyGames:
-    def __init__(self):
-        self.currently_playing = [
-            "Valorant",
-            "Genshin Impact", 
-            "Mobile Legends"
-        ]
-        self.favorite_genres = [
-            "FPS",
-            "RPG",
-            "Strategy Games"
-        ]
-        self.skills = [
-            "Python Game Dev",
-            "Web Gaming Projects",
-            "Game Mechanics"
-        ]
-    
-    def launch_rocket(self):
-        return "🚀 Ready to launch amazing projects!"
-
-my_games = MyGames()
-print(my_games.launch_rocket())
-```
-
-## 💼 Projek Terbaru
-
-### 🎯 Web Development
-- **[E-Commerce Laravel](#)** - Platform e-commerce lengkap
-- **[Python Flask API](#)** - REST API dengan authentication  
-- **[Portfolio Website](#)** - Website portfolio responsive
-
-### 🎮 Game Projects
-- **[Python RPG Game](#)** - Game RPG sederhana dengan Pygame
-- **[Space Shooter](#)** - Game arcade space shooter
-
-## 📫 Hubungi Saya
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daniel@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielsatria)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF7130?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://danielportfolio.com)
-
-## 🎲 Fun Fact
-
-```python
-import random
-
-fun_facts = [
-    "Saya bisa coding sambil main game 🎮",
-    "Project pertama saya adalah game snake 🐍",
-    "Suka bikin automation script untuk daily tasks 🤖",
-    "Bisa debugging sambil tiduran 💤",
-    "Percaya bahwa kopi adalah fuel terbaik untuk coding ☕"
-]
-
-print("🎯 Fun Fact:", random.choice(fun_facts))
-```
-
 ---
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100" />
   <br />
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." ⚡</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." ⚡</i>
 </p>
 
 <p align="center">

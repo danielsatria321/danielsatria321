@@ -12,7 +12,7 @@
 
 ---
 
-Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi web yang kreatif dan efisien. Dengan pengalaman dalam berbagai teknologi, saya menikmati tantangan dalam mengembangkan solusi yang inovatif.
+Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi web maupun mobile yang kreatif dan efisien. Dengan pengalaman dalam berbagai teknologi, saya menikmati tantangan dalam mengembangkan solusi yang inovatif.
 
 **Bahasa yang saya kuasai:**
  

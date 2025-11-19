@@ -52,4 +52,4 @@ Saya seorang **Full Stack Developer** dengan passion dalam membangun aplikasi we
 
 ---
 
-*Terima kasih sudah mengunjungi profile saya! Jangan lupa check project-project keren saya lainnya!* 😄
+*Terima kasih sudah mengunjungi profile saya! Jangan lupa check project-project keren saya lainnya!* 
